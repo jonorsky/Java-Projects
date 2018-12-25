@@ -42,7 +42,7 @@ ___
 ### Project 2 - Student Database Application
 
 Scenario: 
-> YOu are a Database Administrator for a university and need to create an application to manage student enrollments and balance.
+> You are a Database Administrator for a university and need to create an application to manage student enrollments and balance.
 
 The application should do the following:
 * Ask the user how many new students will be added to the database
